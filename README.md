@@ -15,7 +15,6 @@ https://github.com/Beat0154/easiest-game-ever
 
 ## This Link is Used to check the model we trained in Teachable Machine
 https://teachablemachine.withgoogle.com/models/JEKaJN3RH/
-![image](https://user-images.githubusercontent.com/60594889/156922116-2c164a8c-e0e3-4c61-b0f5-843de9e9ebad.png)
 
 
 ## Game Process through Some Images
