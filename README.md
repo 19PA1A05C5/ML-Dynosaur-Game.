@@ -29,7 +29,7 @@ https://teachablemachine.withgoogle.com/models/JEKaJN3RH/
 https://RawUnkemptBotany.karnatipavani.repl.co
 
 ## Demo video
-![image](https://user-images.githubusercontent.com/60594889/156922228-6cb25737-8fd9-4940-9a3c-d21a68b8a6a6.png)
+[![Game](https://github.com/19PA1A0569/pictures/blob/main/IMG_20210128_140946.jpg)](https://youtu.be/qGvlz7uoSMU)
 
 
 ## Online Reference
