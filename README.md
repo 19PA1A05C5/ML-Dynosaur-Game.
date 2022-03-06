@@ -29,7 +29,8 @@ https://teachablemachine.withgoogle.com/models/JEKaJN3RH/
 https://RawUnkemptBotany.karnatipavani.repl.co
 
 ## Demo video
-https://youtu.be/qGvlz7uoSMU
+![image](https://user-images.githubusercontent.com/60594889/156922228-6cb25737-8fd9-4940-9a3c-d21a68b8a6a6.png)
+
 
 ## Online Reference
 https://github.com/Beat0154/easiest-game-ever
