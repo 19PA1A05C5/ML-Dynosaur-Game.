@@ -21,7 +21,9 @@ https://teachablemachine.withgoogle.com/models/JEKaJN3RH/
 
 ![tm project](https://user-images.githubusercontent.com/60594889/156919004-a28fe673-1f25-4a2a-8fd0-f575bfd0225e.png)
 ## The Dynosaur is Jump when we say Jump
-https://github.com/19PA1A0569/ML---Dynosaur-Game/raw/main/2021-01-28%20(21).png
+![image](https://user-images.githubusercontent.com/60594889/156922184-740a82af-2abb-4dee-8217-d299a6a1cc22.png)
+![image](https://user-images.githubusercontent.com/60594889/156922193-88d1f24a-9723-47a0-b4e7-688e1a37c3c6.png)
+
 
 ## Repl Link to play the Game
 https://RawUnkemptBotany.karnatipavani.repl.co
